@@ -115,8 +115,8 @@ challenges:
   # Challenge names must be in lowercase.
   challengeList:
     glassmaker:
-      friendlyname: 'Glass Maker'
-      description: 'Create 1 block of glass'
+      friendlyname: 'Glas Maker'
+      description: 'Maak een blok glas'
       icon: GLASS
       level: 'Novice'
       type: inventory
